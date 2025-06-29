@@ -11,9 +11,9 @@ Despite the fact that I am british, most people who use Dither Boy are american,
 ```json
 {
   "category": "Nature",          // will be grouped based on this name in dither boy 
-  "name": "Forest",               // name that appears in dither boy ui, make sure this matches .json file name
-  "color_count": 8,                // amount of colours in the list
-  "colors": [                      // start of colours section
+  "name": "Forest",               
+  "color_count": 8,                
+  "colors": [                      
     {
       "r": 12,
       "g": 20,
