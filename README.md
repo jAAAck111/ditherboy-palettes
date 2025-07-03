@@ -12,7 +12,7 @@ Despite the fact that I am british, most people who use Dither Boy are american,
 {
   "category": "Nature",          // will be grouped based on this name in dither boy 
   "name": "Forest",               
-  "color_count": 8,                
+  "color_count": 4,                
   "colors": [                      
     {
       "r": 12,
