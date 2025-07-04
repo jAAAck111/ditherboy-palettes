@@ -1,3 +1,5 @@
+Loading these palettes into a dithered image requires Dither Boy: https://studioaaa.com/ditherboy/
+
 # Hello Dither Boy Enjoyer
 
 You have found my archive of Dither Boy palettes, if you would like to format your own palettes manually, here is how you can do that:
@@ -6,13 +8,13 @@ You have found my archive of Dither Boy palettes, if you would like to format yo
 
 Despite the fact that I am british, most people who use Dither Boy are american, so we use "color" instead of "colour" so, sorry if i switch between those two in this.
 
-**Colours work best when ordered darkest → lightest** (lowest luminance first).
+**Colours work best when ordered darkest → lightest** (top → bottom) with lowest luminance first, highest luminance last.
 
 ```json
 {
   "category": "Nature",          // will be grouped based on this name in dither boy 
   "name": "Forest",               
-  "color_count": 8,                
+  "color_count": 4,                
   "colors": [                      
     {
       "r": 12,
