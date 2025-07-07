@@ -1,5 +1,7 @@
 Loading these palettes into a dithered image requires Dither Boy: https://studioaaa.com/ditherboy/
 
+I am already working on putting out a tool to create these palettes in a way that leans into retro outputs!
+
 # Hello Dither Boy Enjoyer
 
 You have found my archive of Dither Boy palettes, if you would like to format your own palettes manually, here is how you can do that:
