@@ -1,0 +1,19 @@
+{
+  "category": "Retro",
+  "name": "Handheld 5",
+  "color_count": 2,
+  "colors": [
+    {
+      "r": 85,
+      "g": 107,
+      "b": 23,
+      "percentage": 41.60299625468164
+    },
+    {
+      "r": 167,
+      "g": 208,
+      "b": 37,
+      "percentage": 58.39700374531836
+    }
+  ]
+}

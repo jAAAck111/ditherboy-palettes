@@ -1,0 +1,31 @@
+{
+  "category": "Retro",
+  "name": "Handheld 2",
+  "color_count": 4,
+  "colors": [
+    {
+      "r": 50,
+      "g": 50,
+      "b": 50,
+      "percentage": 25.0
+    },
+    {
+      "r": 121,
+      "g": 159,
+      "b": 1,
+      "percentage": 25.0
+    },
+    {
+      "r": 121,
+      "g": 159,
+      "b": 2,
+      "percentage": 25.0
+    },
+    {
+      "r": 127,
+      "g": 183,
+      "b": 20,
+      "percentage": 25.0
+    }
+  ]
+}
