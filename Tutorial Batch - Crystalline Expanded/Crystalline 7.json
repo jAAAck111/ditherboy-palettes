@@ -1,0 +1,53 @@
+"category": "Abstract",
+"name": "Crystalline 7",
+"color_count": 8,
+"colors": [
+  {
+    "r": 10,
+    "g": 10,
+    "b": 13,
+    "percentage": 12.5
+  },
+  {
+    "r": 30,
+    "g": 35,
+    "b": 45,
+    "percentage": 12.5
+  },
+  {
+    "r": 58,
+    "g": 73,
+    "b": 98,
+    "percentage": 12.5
+  },
+  {
+    "r": 92,
+    "g": 120,
+    "b": 160,
+    "percentage": 12.5
+  },
+  {
+    "r": 135,
+    "g": 175,
+    "b": 215,
+    "percentage": 12.5
+  },
+  {
+    "r": 185,
+    "g": 210,
+    "b": 240,
+    "percentage": 12.5
+  },
+  {
+    "r": 220,
+    "g": 230,
+    "b": 245,
+    "percentage": 12.5
+  },
+  {
+    "r": 245,
+    "g": 248,
+    "b": 255,
+    "percentage": 12.5
+  }
+]

@@ -1,0 +1,29 @@
+"category": "Abstract",
+"name": "Crystalline 5",
+"color_count": 4,
+"colors": [
+  {
+    "r": 15,
+    "g": 15,
+    "b": 18,
+    "percentage": 25.0
+  },
+  {
+    "r": 45,
+    "g": 55,
+    "b": 70,
+    "percentage": 25.0
+  },
+  {
+    "r": 90,
+    "g": 110,
+    "b": 145,
+    "percentage": 25.0
+  },
+  {
+    "r": 150,
+    "g": 190,
+    "b": 230,
+    "percentage": 25.0
+  }
+]
