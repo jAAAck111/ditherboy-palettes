@@ -1,6 +1,7 @@
 Loading these palettes into a dithered image requires Dither Boy: https://studioaaa.com/ditherboy/
 
-I am already working on putting out a tool to create these palettes in a way that leans into retro outputs!
+You can create your own palettes using Color Cat!
+- https://studioaaa.com/product/color-cat/
 
 # Hello Dither Boy Enjoyer
 
